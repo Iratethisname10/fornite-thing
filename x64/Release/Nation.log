@@ -1,0 +1,304 @@
+﻿  Assembling shellcode.asm...
+  Dllmain.cpp
+C:\Users\ichha\Documents\Coding\TestSRC\UnrealStructs.h(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ichha\Documents\Coding\TestSRC\Dllmain.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\ichha\Documents\Coding\TestSRC\Utilities.h(16,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ichha\Documents\Coding\TestSRC\UnrealStructs.h(1): message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(83,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(101,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(101,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(108,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(108,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(115,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(115,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(116,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(116,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(117,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(117,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(124,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(124,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(124,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(125,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(125,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(125,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(126,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(126,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(126,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(127,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(127,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(127,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(128,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(128,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(129,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(129,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(133,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(133,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(133,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(133,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(134,131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(134,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(134,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(134,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(134,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(138,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(138,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(138,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(138,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(228,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(228,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(228,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(228,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(228,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(231,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(232,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(234,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(235,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(236,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(237,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(238,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(239,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(240,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(241,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(244,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(245,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(247,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(248,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(249,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(250,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(251,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(252,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(253,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(254,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(259,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(260,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(262,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(262,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(262,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(262,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(274,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(274,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(274,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(274,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(278,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(278,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(279,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(279,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(280,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(280,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(284,128): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(284,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(284,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(284,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(284,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(299,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(299,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(300,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(300,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(301,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(301,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(305,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(305,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(309,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\CheatSettings.h(309,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\UnrealStructs.h(309,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\UnrealStructs.h(868,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\UnrealStructs.h(868,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\UnrealStructs.h(868,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\UnrealStructs.h(891,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\UnrealStructs.h(924,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\UnrealStructs.h(942,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(349,172): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(349,146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(356,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(356,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(356,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(356,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(356,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(374,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(375,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(492,31): warning C4244: '=': conversion from 'Ret' to 'float', possible loss of data
+          with
+          [
+              Ret=int
+          ]
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(493,31): warning C4244: '=': conversion from 'Ret' to 'float', possible loss of data
+          with
+          [
+              Ret=int
+          ]
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(538,6): warning C4293: '>>': shift count negative or too big, undefined behavior
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(556,11): warning C4293: '>>': shift count negative or too big, undefined behavior
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(705,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(712,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(768,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(768,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(779,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(779,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(864,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(864,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,55): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,71): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,88): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,88): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,101): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,101): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,115): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,127): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,127): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,140): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,140): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,151): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,151): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,163): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,163): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,176): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,176): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,190): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,190): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,202): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,202): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,215): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,215): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,227): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,227): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,240): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,240): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,258): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,258): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,277): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(907,277): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(923,142): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(923,119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(923,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(923,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(924,131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(924,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(924,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(924,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1058,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1058,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1058,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1058,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1058,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1059,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1059,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1059,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1059,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1059,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1060,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1060,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1060,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1060,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1060,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1061,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1061,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1061,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1061,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1061,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1062,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1062,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1062,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1062,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1062,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1063,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1063,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1063,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1063,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1063,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1064,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1064,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1064,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1064,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1064,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1065,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1065,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1065,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1065,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1065,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1066,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1066,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1066,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1066,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1066,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1067,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1067,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1067,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1067,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1067,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1068,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1068,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1068,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1068,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1068,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1069,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1069,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1069,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1069,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1069,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1070,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1070,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1070,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1070,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1070,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1071,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1071,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1071,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1071,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1071,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1072,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1072,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1072,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1072,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1072,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1073,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1073,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1073,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1073,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1073,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1074,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1074,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1074,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1074,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1074,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1075,110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1075,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1075,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1075,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1075,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(563,10): warning C4101: 'draw': unreferenced local variable
+C:\Users\ichha\Documents\Coding\TestSRC\RenderCanvas.h(1090,71): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  imgui.cpp
+C:\Users\ichha\Documents\Coding\TestSRC\imgui\imgui.cpp(7465,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\imgui\imgui.cpp(7466,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\imgui\imgui.cpp(8170,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\imgui\imgui.cpp(8170,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ichha\Documents\Coding\TestSRC\imgui\imgui.cpp(8171,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ichha\Documents\Coding\TestSRC\imgui\imgui.cpp(8176,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ichha\Documents\Coding\TestSRC\imgui\imgui.cpp(8176,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ichha\Documents\Coding\TestSRC\imgui\imgui.cpp(8179,73): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\ichha\Documents\Coding\TestSRC\UnrealStructs.h(883): warning C4715: 'SDK::Utilities::CheckInScreen': not all control paths return a value
+C:\Users\ichha\Documents\Coding\TestSRC\UnrealStructs.h(820): warning C4715: 'SDK::Classes::Utils::CheckInScreen': not all control paths return a value
+  All 1544 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'C:\Users\ichha\Documents\Coding\TestSRC\x64\Release\detours.pdb'; linking object as if no debug info
+detours.lib(modules.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(modules.obj)' or at ''; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(disasm.obj)' or at ''; linking object as if no debug info
+  Nation.vcxproj -> C:\Users\ichha\Documents\Coding\TestSRC\x64\Release\bytes.dll
